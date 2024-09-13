@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bluelime", "bluelime\bluelime.csproj", "{48727554-113B-4922-ACE4-87C973DE51CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48727554-113B-4922-ACE4-87C973DE51CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48727554-113B-4922-ACE4-87C973DE51CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48727554-113B-4922-ACE4-87C973DE51CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48727554-113B-4922-ACE4-87C973DE51CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D0755DD-BF18-411C-BD63-2E2ADF20F9E1}
+	EndGlobalSection
+EndGlobal
